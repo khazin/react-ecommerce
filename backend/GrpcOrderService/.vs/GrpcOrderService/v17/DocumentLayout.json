@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\services\\orderserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\services\\orderserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\protos\\order.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\data\\orderdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\data\\orderdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\grpcorderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\grpcorderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|c:\\users\\khazi\\source\\repos\\grpcorderservice\\grpcorderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{943C8B00-3BB5-4EC7-B0FE-69903FA26D56}|GrpcOrderService\\GrpcOrderService.csproj|solutionrelative:grpcorderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "GrpcOrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:47:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Services\\OrderServiceImpl.cs",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Services\\OrderServiceImpl.cs",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Services\\OrderServiceImpl.cs",
+              "RelativeToolTip": "GrpcOrderService\\Services\\OrderServiceImpl.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAvwFsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:56:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.proto",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Protos\\order.proto",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Protos\\order.proto",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Protos\\order.proto",
+              "RelativeToolTip": "GrpcOrderService\\Protos\\order.proto",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-07T01:55:30.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Data\\OrderDbContextFactory.cs",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Data\\OrderDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Data\\OrderDbContextFactory.cs",
+              "RelativeToolTip": "GrpcOrderService\\Data\\OrderDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:14:55.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Models\\Order.cs",
+              "RelativeToolTip": "GrpcOrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:02:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrpcOrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\GrpcOrderService.csproj",
+              "RelativeDocumentMoniker": "GrpcOrderService\\GrpcOrderService.csproj",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\GrpcOrderService.csproj",
+              "RelativeToolTip": "GrpcOrderService\\GrpcOrderService.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T01:55:52.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcOrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\Program.cs",
+              "RelativeToolTip": "GrpcOrderService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:57:18.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcOrderService\\appsettings.json",
+              "ToolTip": "C:\\Users\\khazi\\source\\repos\\GrpcOrderService\\GrpcOrderService\\appsettings.json",
+              "RelativeToolTip": "GrpcOrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T10:04:56.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
