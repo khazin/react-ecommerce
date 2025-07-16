@@ -189,30 +189,36 @@ This project uses **SQL Server + Entity Framework Core** for database access.
     By default, EF Core will create tables:
         Products – stores product catalog data
         Orders – stores customer orders
+## 📁 Project Structure
 
-## 🔹Project Structure
+```text
 ReactEcommerce/
 ├── app/
-│ ├── products/ # Product catalog & detail pages
-│ ├── cart/ # Cart page
-│ ├── orders/ # Orders listing + detail page
-│ ├── layout.tsx # Root layout with header/nav
-│ └── globals.css
+│   ├── products/         # Product catalog & detail pages
+│   ├── cart/             # Cart page
+│   ├── orders/           # Orders listing + detail page
+│   ├── layout.tsx        # Root layout with header/nav
+│   └── globals.css
+│
 ├── components/
-│ ├── ProductCard.tsx # Reusable product display
-│ ├── CartIndicator.tsx # Shows mini cart badge
+│   ├── ProductCard.tsx   # Reusable product display
+│   ├── CartIndicator.tsx # Shows mini cart badge
+│
 ├── lib/
-│ ├── api/ # API fetchers for products/orders
-│ └── store/ # Zustand store for cart
+│   ├── api/              # API fetchers for products/orders
+│   └── store/            # Zustand store for cart
+│
 ├── public/
+│
 ├── tailwind.config.ts
 │
-├─ backend/
-│  ├─ WebApi/        # ASP.NET Core Web API (REST gateway)
-│  ├─ ProductService # gRPC service for products
-│  ├─ OrderService   # gRPC service for orders
-│  └─ Shared/        # Shared protobuf files, EF models
-└─ database/         # SQL Server DB
+├── backend/
+│   ├── WebApi/           # ASP.NET Core Web API (REST gateway)
+│   ├── ProductService/   # gRPC service for products
+│   └── OrderService/     # gRPC service for orders
+│
+└── database/             # SQL Server DB
+```
 
 Note: Since this project is still evolving, some APIs and workflows may change as new features (auth, payments, admin panel) are added.
 
