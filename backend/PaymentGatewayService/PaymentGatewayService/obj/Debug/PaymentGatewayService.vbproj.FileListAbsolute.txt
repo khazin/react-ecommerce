@@ -1,0 +1,22 @@
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.dll.config
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.dll
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.pdb
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.xml
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.AssemblyReference.cache
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.Resources.resources
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.GenerateResource.cache
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.CoreCompileInputs.cache
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.dll
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.xml
+C:\Users\khazi\source\repos\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.pdb
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.dll.config
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.dll
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.pdb
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\bin\PaymentGatewayService.xml
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.AssemblyReference.cache
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.Resources.resources
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.GenerateResource.cache
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.vbproj.CoreCompileInputs.cache
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.dll
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.xml
+C:\Users\khazi\Desktop\Job Search Projects\react-ecommerce\backend\PaymentGatewayService\PaymentGatewayService\obj\Debug\PaymentGatewayService.pdb

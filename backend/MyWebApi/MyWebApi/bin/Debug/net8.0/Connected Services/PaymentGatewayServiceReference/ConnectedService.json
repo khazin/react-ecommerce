@@ -1,0 +1,36 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:51337/PaymentGatewayService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, PaymentGatewayServiceReference"
+    ],
+    "references": [
+      "Google.Protobuf, {Google.Protobuf, 3.31.1}",
+      "Grpc.Core.Api, {Grpc.Core.Api, 2.71.0}",
+      "Grpc.Net.Client, {Grpc.Net.Client, 2.71.0}",
+      "Grpc.Net.ClientFactory, {Grpc.Net.ClientFactory, 2.71.0}",
+      "Grpc.Net.Common, {Grpc.Net.Common, 2.71.0}",
+      "Microsoft.Extensions.DependencyInjection, {Microsoft.Extensions.DependencyInjection, 6.0.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 6.0.0}",
+      "Microsoft.Extensions.Http, {Microsoft.Extensions.Http, 6.0.0}",
+      "Microsoft.Extensions.Logging, {Microsoft.Extensions.Logging, 6.0.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 6.0.0}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 6.0.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 6.0.0}",
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.6.14}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.6.2}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.6.2}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.6.2}",
+      "System.Diagnostics.DiagnosticSource, {System.Diagnostics.DiagnosticSource, 6.0.0}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 6.0.0}"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
